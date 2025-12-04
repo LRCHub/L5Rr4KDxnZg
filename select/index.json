@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ロスタイムメモリー",
+  "base_artist": "じん",
+  "createdAt": "2025-12-04T09:43:47.024270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost Time Memory (English Cover)【JubyPhonic】ロスタイムメモリー",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Lost_Time_Memory_(English_Cover)【JubyPhonic】ロスタイムメモリー_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロスタイムメモリー",
+      "artist": "じん ft.松山晃太(BYEE the ROUND)",
+      "has_synced": true,
+      "path": "select/02_ロスタイムメモリー_じん_ft.松山晃太(BYEE_the_ROUND).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロスタイムメモリー",
+      "artist": "じん ft. 松山晃太",
+      "has_synced": true,
+      "path": "select/03_ロスタイムメモリー_じん_ft._松山晃太.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロスタイムメモリー",
+      "artist": "じん",
+      "has_synced": true,
+      "path": "select/04_ロスタイムメモリー_じん.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロスタイムメモリー",
+      "artist": "Jin",
+      "has_synced": true,
+      "path": "select/05_ロスタイムメモリー_Jin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロスタイムメモリー",
+      "artist": "IA",
+      "has_synced": true,
+      "path": "select/06_ロスタイムメモリー_IA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロスタイムメモリー",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_ロスタイムメモリー_じん.txt"
+    }
+  ]
+}
